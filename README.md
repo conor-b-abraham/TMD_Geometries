@@ -1,6 +1,10 @@
 # TMD_Geometries
 Calculate geometric parameters for single-pass transmembrane proteins
 
+If you use these codes, please cite:
+
+Conor B. Abraham, Lin Xu, George A. Pantelopulos, & John E. Straub. Characterizing the transmembrane domains of ADAM10 and BACE1 and the impact of membrane composition. *Biophysical Journal* **2023**, *122*(19), DOI: [10.1016/j.bpj.2023.08.025](https://doi.org/10.1016/j.bpj.2023.08.025)
+
 These codes calculate the following parameters:
 - theta: protein helix tilt angle
 - kappa: protein helix hingle angle
